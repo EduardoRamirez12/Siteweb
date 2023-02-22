@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav{
+    background-color:rgb(20, 20, 97);
+    margin-top: 0px;
+    padding: 0 100px;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100px;
+}
+
+
+.nav__titulo{
+    
+    text-align:justify;
+    font-size: 150%;
+    color: white;
+    padding-left: 100px;
+}
+
+section{
+    background-color: rgb(238, 232, 232);
+}
+
+.navlogin{
+    display: flex;
+}
+
+.divlogin{
+    margin-left: 400px;
+    margin-top: 60px;
+}
+
+h2{
+    padding: 20px;
+    text-align: center;
+}
+
+input, button{
+    width: 300px;
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 5px;
+    margin: 10px;
+    margin-left: 40px;
+}
+
+button{
+    background-color: rgb(158, 119, 10);
+    width: 320px;
+    color: white;
+}
+
+footer{
+    background-color: rgb(0, 0, 128);
+    color: white;
+    padding: 5px;
+    text-align:left;
+    font-size: 100%;
+    margin-top:0px;
+}
